@@ -1,0 +1,4 @@
+﻿  activity2_131.cpp
+D:\pemrograman dasar\activity2_131\activity2_131\activity2_131.cpp(9,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\pemrograman dasar\activity2_131\activity2_131\activity2_131.cpp(13,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  activity2_131.vcxproj -> D:\pemrograman dasar\activity2_131\x64\Debug\activity2_131.exe
