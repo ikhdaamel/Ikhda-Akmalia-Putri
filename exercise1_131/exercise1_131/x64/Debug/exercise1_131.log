@@ -1,0 +1,2 @@
+﻿  exercise1_131.cpp
+D:\pemrograman dasar\exercise1_131\exercise1_131\exercise1_131.cpp(25,11): error C2040: 'nama': 'float' differs in levels of indirection from 'float [20]'
